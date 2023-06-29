@@ -27,5 +27,10 @@ Community contributions are at the heart of Open Forum. This section will outlin
 This section will summarize the key features of Open Forum, as well as the roadmap for future development. It will provide a snapshot of what is currently available and what the community aims to achieve.
 
 ## License
+Open Systems Software is licensed under the GNU General Public License v3.0.
 
-Open Forum is licensed under the Mozilla Public License 2.0. See [LICENSE](LICENSE) for more information.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
