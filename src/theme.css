@@ -1,0 +1,127 @@
+/* theme.css */
+
+.container {
+    width: 600px;
+    /* Limit the width of the form */
+    margin: 30px auto;
+    /* Center the form horizontally and add vertical space */
+    max-width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.card {
+    background-color: #282a2e;
+    border-radius: 2px;
+    padding: 30px;
+    /* Increase the padding inside the card */
+    box-sizing: border-box;
+}
+
+.card-body {
+    color: #d8dadc;
+}
+
+.card-title {
+    color: #d7dadc;
+    margin-bottom: 20px;
+}
+
+.reply-card {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+ 
+.quote-alert {
+    border-radius: 5px;
+    background-color: #343a40;
+    color: #fff;
+    border-color: #1f2225;
+  }
+
+.btn {
+    background-color: #007bffa6;
+    padding: 10px 20px;
+    /* Increase the padding inside the button */
+    width: 100%;
+    /* Make the button span the full width of the form */
+}
+
+.form-group {
+    margin-bottom: 30px;
+    /* Increase the vertical space between form groups */
+}
+
+.form-label {
+    color: #d8dadc;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    background-color: #383838;
+    border: none;
+    color: #d8dadc;
+    height: 40px;
+    /* Increase the height of the input fields */
+}
+
+.form-control::placeholder {
+    color: #d8dadc;
+}
+
+.form-control,
+.btn {
+    border-radius: 0;
+}
+
+.link {
+    color: #007bffa6;
+    text-decoration: none;
+}
+
+.header {
+    background-color: #1a1a1b;
+    color: #d8dadc;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #d8dadc;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+.main-content {
+    padding-top: 60px;
+    /* Adjust this value based on the actual height of your header */
+}
+
+.app-theme {
+    background-color: #1a1a1b;
+    color: #d8dadc;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.content {
+    max-width: 800px;
+    /* Or any width you want */
+    margin: 0 auto;
+    /* Center the content */
+    width: 100%;
+}
+
+.navbar-text {
+    color: #d8dadc !important;
+}
+
+.nav-link {
+    color: #d8dadc !important;
+}
